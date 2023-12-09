@@ -57,8 +57,8 @@ To improve India Store’s sales for 2023, the following strategies are suggepro
 
 ## OR click on (https://github.com/Hykze1/India-Store-Annual-Sales-Report-for-2022/blob/main/Analysis%20on%20India%20Store%20Annual%20Sales%20Report%20Solved-checkpoint.ipynb). 
 
-Do not forget to check out my portfolio for other analysis https://hykze1.github.io/. 
-
-Thanks 
+Do not forget to check out my portfolio for other analysis https://hykze1.github.io/ 
 
 # PS: Always convert your mobile phone browser to desktop for better view when using your mobiles
+
+# Thanks
