@@ -53,7 +53,9 @@ To improve India Store’s sales for 2023, the following strategies are suggepro
 - Geographical Focus: …
 - Channel Optimization: …
 
-## Find the jupyter file above to see indept insigt and Analysis OR Click on view code if you are using mobile Phone. 
+## Find the jupyter file above to see indept insigt and Analysis
+
+## OR [Click on view code if you are using mobile Phone](https://github.com/Hykze1/India-Store-Annual-Sales-Report-for-2022/blob/main/Analysis%20on%20India%20Store%20Annual%20Sales%20Report%20Solved-checkpoint.ipynb). 
 
 Do not forget to check out my portfolio for other analysis https://hykze1.github.io/. 
 
